@@ -1,0 +1,7 @@
+# Binaries for programs and plugins
+# ide
+
+.idea
+
+*.iml
+*.xml
